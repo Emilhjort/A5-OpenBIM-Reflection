@@ -14,7 +14,8 @@ For the final assignment, we will be reflecting on our use case, an LCA tool tha
 ## The journey and what lies ahead
 There is no doubt that at the beginning of the course, we were both modelers (level 1). At the start of the course, we both assumed that Advanced BIM would be a more detail-oriented modeling course, but we quickly learned that the course extends beyond a mere emphasis on modeling and OpenBIM encompasses more aspects like collaboration, transparency, industry standardization for consistency and compatibility, etc. Now that we are at the end of the course, we have taken a step up the BIM hierarchy and become Analysts (level 3). It is not a big step, but nonetheless, we find it to be sufficient since we can see a progression in our BIM skills and way of thinking.
 
-<img width="488" alt="BIM Modeller" src="https://github.com/Emilhjort/A5-OpenBIM-Reflection/assets/145363406/0f63e574-0fe9-4209-8c1b-1bbeb5f02540">
+<img width="608" alt="BIM Modeller" src="https://github.com/Emilhjort/A5-OpenBIM-Reflection/assets/145363406/2211a4c2-967d-4e35-adba-ee7bd487ca49">
+
 
 Since we have only taken one step up the BIM hierarchy, there are plenty of things we still need to learn and become familiar with.
 
